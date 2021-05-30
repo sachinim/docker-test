@@ -20,3 +20,5 @@ after_success:
   - docker push sachinim/docker-test-nginx
   - docker push sachinim/docker-test-server
   - docker push sachinim/docker-test-worker
+
+# deploy:
